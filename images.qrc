@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>joystick_button.png</file>
+        <file>jb_small.png</file>
+    </qresource>
+</RCC>
